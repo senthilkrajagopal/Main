@@ -38,3 +38,6 @@
 	path = freetype2
 	url = https://git.savannah.gnu.org/git/freetype/freetype2.git
 
+[submodule "lua/lua"]
+	path = lua/lua
+	url = https://github.com/lua/lua.git
